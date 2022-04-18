@@ -1,0 +1,14 @@
+format: jb-article
+root: docs/index
+sections:
+- file: docs/introduction_of_database
+- file: docs/data_process
+- file: docs/visualization
+- file: docs/KNN_Algorithm
+- file: docs/Decision_Tree
+- file: docs/XGBboost_Algorithm
+- file: docs/conclusion
+
+
+
+
